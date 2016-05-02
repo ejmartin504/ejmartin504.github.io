@@ -1,28 +1,30 @@
 ---
 layout: post
-title:  "Welcome to Jekyll?"
+title:  "Test Post"
 date:   2016-05-01 22:09:19 -0400
 categories: teddy
 ---
 
-## HEADING
+## Experimentation
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This is a post, being edited in Emacs; I'm going to try some markdown now.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+1. One
+2. Thing
+3. At 
+4. A Time
 
-Jekyll also offers powerful support for code snippets:
+[Link to github](github.com.ejmartin)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+And below is some Swift:
+
+{% highlight swift %}
+struct Teddy {
+   var firstName = "Teddy"
+   var level = 1
+
+   mutating func levelUp() {
+      level += 1
+   }
+}
 {% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
