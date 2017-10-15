@@ -8,12 +8,13 @@
 # Site settings
 title: Teddy's Internet Domain
 email: ejmartin504@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  This is the description of Teddy's site, for all the world to see.
+description: > 
+  Teddy will write here, and he might post things he finds interesting.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://teddymartin.co" # the base hostname & protocol for your site
-twitter_username: ejmartin504
-github_username: TeddyJMartin
+twitter_username: TeddyJMartin  
+github_username: ejmartin504
 
 # Build settings
 markdown: kramdown
