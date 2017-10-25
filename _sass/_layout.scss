@@ -10,6 +10,14 @@
     position: relative;
 }
 
+a#change-link {
+    float: right;
+    color: red;
+    border: 1px solid;
+    padding:5px;
+    font-weight:bold;
+}
+
 .site-title {
     font-size: 26px;
     font-weight: 300;

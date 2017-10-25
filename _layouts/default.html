@@ -6,9 +6,11 @@
   <body>
 
     {% include header.html %}
-
+    
     <div class="page-content">
+     
       <div class="wrapper">
+        <a id="change-link" href="http://{{site.github.hostname}}/{{site.github_username}}/{{site.github_repository}}/blob/master/{{page.path}}">Make A Change</a>
         {{ content }}
       </div>
     </div>
