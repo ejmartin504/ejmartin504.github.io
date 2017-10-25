@@ -12,4 +12,3 @@ Let the games begin.
 
 ### TODO
 
-- add a button to edit the currently visible page on github (i.e. by forking and submitting a PR). Jekyll does this on their site and I think it's a great idea.
