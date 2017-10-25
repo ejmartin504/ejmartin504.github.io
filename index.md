@@ -14,7 +14,9 @@ Ths internet has given us an incredible ability to connect with each other. Are 
 ## What you (might) find here
 
 Writing: thoughts, essays, experiments. Generally focused on technology and its social implications. Maybe some poetry.
+
 Reading: what I'm reading, listening to, experiencing. 
+
 Coding: programming projects, ideas, opinions on the art and practice of computer programming.
 
 ## How this (might) work
