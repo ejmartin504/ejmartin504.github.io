@@ -25,5 +25,5 @@ Every page, every word published on this website is generated through [github](h
   
 - Github provides a log of all past, present, and future changes made to these pages.
 - The source code for this website is public and always will be.
-- If you would like to make changes to this site, you simply have to click the button at the top right of every page. The big, red button that says "Make A Change". Go ahead, click it. Open a "Pull Request." If you don't know how to do that, get in touch.
+- If you would like to make changes to this site, you simply have to click the button at the top right of every page. The big, red button that says "Change This Page". Go ahead, click it. Open a "Pull Request." If you don't know how to do that, get in touch.
 
