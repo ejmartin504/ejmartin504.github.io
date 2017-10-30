@@ -10,7 +10,7 @@ I have called it the Skeptical Technologist. That phrase refers to me, Teddy J. 
 
 ## A question
 
-Ths internet has given us an incredible ability to connect with each other. Are we living up to the incredible potential of this network?
+Ths internet has given humanity an incredible ability to connect with one another. Are we living up to the potential of this network?
 
 ## What you (might) find here
 
