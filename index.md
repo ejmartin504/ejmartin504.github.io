@@ -3,28 +3,24 @@ layout: default
 title: ''
 ---
 
-# About this site
+## My name is Teddy; this is my website.
 
-This site is an experiment, a living document.
-I have called it the Skeptical Technologist. That phrase refers to me, Teddy J. Martin, but my sincere hope is that it is also many of you.
+I am a programmer, but I am ambivalent about technology and its effects on the world. 
 
-## A question
+I am a believer, but I struggle with my Church, with my God, and with my Self.
 
-Ths internet has given humanity an incredible ability to connect with one another. Are we living up to the potential of this network?
+I am a musician, but I play best when no one is listening.
 
-## What you (might) find here
+---
 
-Writing: thoughts, essays, experiments. Generally focused on technology and its social implications. Maybe some poetry.
+To read some of my writing, check out [Writing](/writing).
 
-Reading: what I'm reading, listening to, experiencing. 
+To read about what I've been reading, check out [Reading](/reading).
 
-Coding: programming projects, ideas, opinions on the art and practice of computer programming.
+To read about what I've been coding, check out [Coding](/coding).
 
-## How this (might) work
+---
 
-Every page, every word published on this website is generated through [github](http://github.com). The main reason this is in any way of interest is that:
-  
-- Github provides a log of all past, present, and future changes made to these pages.
-- The source code for this website is public and always will be.
-- If you would like to make changes to this site, you simply have to click the button at the top right of every page. The big, red button that says "Change This Page". Go ahead, click it. Open a "Pull Request." If you don't know how to do that, get in touch.
+The source of this website is hosted on [GitHub](http://{{site.github.hostname}}/{{site.github_username}}/{{site.github_repository}}). Feel free to make suggestions on changes by opening Pull Requests.
+
 
