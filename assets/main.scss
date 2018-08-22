@@ -1,0 +1,21 @@
+---
+---
+
+@import "tale";
+
+footer {
+    border-top: 1px solid #e8e8e8;
+    padding: 30px 0;
+    max-width: 1000px;
+}
+
+ul.contact-details {
+    li {
+        display:inline;
+
+        svg {
+            height: 15px;
+            width: 25px;
+        }
+    }
+}
