@@ -2,7 +2,6 @@
 layout: post
 title: Are We Living In "Fantasyland"?
 date: 2018-08-21
-categories: reading
 published: true
 ---
 
