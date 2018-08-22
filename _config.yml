@@ -8,9 +8,8 @@
 # Site settings
 title: The Skeptical Technologist
 email: ejmartin504@gmail.com
-description: > 
-  Teddy will write here, and he might post things he finds interesting.
-
+description: >-
+  Writing, from a skeptical technologist.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://teddymartin.co" # the base hostname & protocol for your site
 twitter_username: TeddyJMartin  
@@ -19,3 +18,18 @@ github_repository: ejmartin504.github.io
 
 # Build settings
 markdown: kramdown
+theme: minima
+plugins: 
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
