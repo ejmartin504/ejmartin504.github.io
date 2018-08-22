@@ -13,16 +13,7 @@ I am a believer, but I struggle with my Church, with my God, and with my Self.
 
 I am a musician, but I play best when no one is listening.
 
-### What's here
-
-[Writing](/writing) on various topics.
-
-Thoughts and musings on what I've been [Reading](/reading).
-
-Opinions, digressions, and dreams about [Programming](/programming).
-
 ### Note
 
 The source of this website is hosted on [GitHub](http://{{site.github.hostname}}/{{site.github_username}}/{{site.github_repository}}). Feel free to make suggestions on changes by opening Pull Requests.
-
 
