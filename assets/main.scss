@@ -9,6 +9,24 @@ footer {
     max-width: 1000px;
 }
 
+div.radio {
+    ul {
+        li {
+            font-style: italic;   
+            margin-bottom: 10px;
+
+            .playlist {
+                p {
+                    font-size: 0.75em;
+                    margin: 5px 0;
+                }
+                
+
+            }
+        }
+    }
+}
+
 ul.contact-details {
     li {
         display:inline;
